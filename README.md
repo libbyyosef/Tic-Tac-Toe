@@ -97,6 +97,8 @@ java Tournament rounds boardSize winStreak renderer player1 player2
 
 Enjoy playing Tic Tac Toe!
 
+Powered by DanoGameLab, a library crafted by Dan Nirel.
+
 
 
 
