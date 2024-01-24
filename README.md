@@ -1,6 +1,9 @@
 # Tic Tac Toe 
 This repository contains a simple implementation of the Tic Tac Toe game in Java. The game supports various player types, including Human, Clever, Whatever, and Genius players. You can customize the board size, win streak, and rendering options.
 
+![Tic Tac Toe](https://github.com/libbyyosef/Tic-Tac-Toe/assets/36642026/d0a5ebf5-8bf9-4c81-8eba-b179b47e1395)
+
+
 **Table of Contents**
 - Classes
 - How to Play
