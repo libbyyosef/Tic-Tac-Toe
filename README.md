@@ -87,9 +87,9 @@ The Tournament class allows players to compete in a series of rounds. After each
 **Build and Run**
 
 To build and run the Tic Tac Toe game, you can use the following commands:
-- Compile the Java files: javac *.java
+- Compile the Java files:  javac *.java
 - Run the Tournament class with command-line arguments
-*java Tournament <rounds> <boardSize> <winStreak> <renderer> <player1> <player2>*
+java Tournament <rounds> <boardSize> <winStreak> <renderer> <player1> <player2>
 Replace <rounds>, <boardSize>, <winStreak>, <renderer>, <player1>, and <player2> with your desired values.
 
 Enjoy playing Tic Tac Toe!
